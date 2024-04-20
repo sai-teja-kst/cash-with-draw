@@ -1,4 +1,7 @@
-In this project, let's build a **Cash Withdrawal** app by applying the concepts we have learned till now.
+In this project, 
+NOTE: THIS CODE DOESN'T HAVE UI.. ONLY REACT LOGIC...
+
+let's build a **Cash Withdrawal** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
 
