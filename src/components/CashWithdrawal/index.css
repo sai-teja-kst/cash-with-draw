@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.bg-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
